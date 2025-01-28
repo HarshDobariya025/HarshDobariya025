@@ -1,49 +1,33 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hello👋 , I'm Harsh Dobariya</h1>
 
 ###
 
-<h4 align="left">My name is Harsh Dobariya.</h4>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently studing in Charotar Unirersity of Science & Technology (CHARUSAT).</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h4 align="center">A Passionate Software Engineer From India.</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HarshDobariya025.HarshDobariya025&left_text=Profile%20views"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+<p align="left">📄 Resume : Harsh_Dobariya<br>📫 Contact : dobariyaharsh93@gmail.com<br>⚡ LeetCode :  https://leetcode.com/u/23IT025/<br>⚡ GeeksforGeeks :  https://www.geeksforgeeks.org/user/dobariyawave/<br>🤝 I’m looking to collaborate on Open Source Projects</p>
+
+###
+
+<h2 align="left">Contact Details :</h2>
+
+###
+
+<p align="left">- Mail : dobariyaharsh93@gamil.com</p>
+
+###
+
+<h2 align="left">Skills :</h2>
+
+###
+
+<p align="left">Programming Languages : <br>- C, C++, Java, Python<br><br>Frontend Development : <br>-  Markup & Styling : HTML, CSS, Bootstrap, Tailwind<br>-  Frameworks & Libraries : React <br><br>Backend Development : <br>-  Languages : Node.js, Java, Python(Basics)<br>-  Frameworks : Express<br><br>Database Management: <br>-  NoSQL : MongoDB<br>-  SQL : MySQL</p>
 
 ###
