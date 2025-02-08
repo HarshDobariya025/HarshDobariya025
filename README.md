@@ -31,3 +31,11 @@
 <p align="left">Programming Languages : <br>- C, C++, Java, Python<br><br>Frontend Development : <br>-  Markup & Styling : HTML, CSS, Bootstrap, Tailwind<br>-  Frameworks & Libraries : React <br><br>Backend Development : <br>-  Languages : Node.js, Java, Python(Basics)<br>-  Frameworks : Express<br><br>Database Management: <br>-  NoSQL : MongoDB<br>-  SQL : MySQL</p>
 
 ###
+
+<h2 align="left">Projects :</h2>
+
+###
+
+<p align="left">Weather-app : https://weather-app-omega-six-49.vercel.app/</p>
+
+###
