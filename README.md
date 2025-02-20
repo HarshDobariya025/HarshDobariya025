@@ -1,41 +1,43 @@
-<h1 align="center">Hello👋 , I'm Harsh Dobariya</h1>
+<h1 align="center">Hello 👋, I'm Harsh Dobariya</h1>
+<h3 align="center">A Passionate Software Engineer From India.</h3>
 
-###
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p> -->
 
-<h4 align="center">A Passionate Software Engineer From India.</h4>
+- 👨‍💻 Portfolio : [portfolio.harshdobariya.me](portfolio.harshdobariya.me)
+- 📄 Resume : [HarshDobariya_Resume](https://drive.google.com/drive/folders/1b4sERy0xFiyIiSywJdtWz6DxOy_sRZf1?usp=sharing)
+- 📫 How to reach me dobariyaharsh93@gmail.com
+- ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT025/)
+- ⚡ GeeksforGeeks : [GeeksforGeeks](https://www.geeksforgeeks.org/user/dobariyawave/)
+- 🤝 I’m looking to collaborate on **Open Source Projects**
 
-###
+<h2 align="left">Connect with me:</h2>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HarshDobariya025.HarshDobariya025&left_text=Profile%20views"  />
-</div>
+- Linkedin : [harsh-dobariya-0b72062ba](https://www.linkedin.com/in/harsh-dobariya-0b72062ba/)
+- Mail : dobariyaharsh93@gmail.com
+- Phone : +91 6351597276
 
-###
+<h2 align="left">Languages and Tools:</h2>
 
-<p align="left">📄 Resume : Harsh_Dobariya<br>📫 Contact : dobariyaharsh93@gmail.com<br>⚡ LeetCode :  https://leetcode.com/u/23IT025/<br>⚡ GeeksforGeeks :  https://www.geeksforgeeks.org/user/dobariyawave/<br>🤝 I’m looking to collaborate on Open Source Projects</p>
+**Frontend Development**
+- **Markup & Styling**: HTML, CSS, Bootstrap, Tailwind
+- **Frameworks & Libraries**: React, Redux, Next.js
+<!-- - **Design Tools**: Figma -->
 
-###
+**Backend Development**
+- **Languages**: Node.js, Java, Python
+- **Frameworks**: Express
+- **APIs**: Gemini API
 
-<h2 align="left">Contact Details :</h2>
+**Database Management**
+- **NoSQL**: MongoDB
+- **SQL**: MySQL
 
-###
+**Version Control**
+- Git, GitHub
 
-<p align="left">- Mail : dobariyaharsh93@gamil.com</p>
+<!-- **DevOps & Containerization**
+- Docker -->
 
-###
+<h2 align="left">My Projects :</h2>
 
-<h2 align="left">Skills :</h2>
-
-###
-
-<p align="left">Programming Languages : <br>- C, C++, Java, Python<br><br>Frontend Development : <br>-  Markup & Styling : HTML, CSS, Bootstrap, Tailwind<br>-  Frameworks & Libraries : React <br><br>Backend Development : <br>-  Languages : Node.js, Java, Python(Basics)<br>-  Frameworks : Express<br><br>Database Management: <br>-  NoSQL : MongoDB<br>-  SQL : MySQL</p>
-
-###
-
-<h2 align="left">Projects :</h2>
-
-###
-
-<p align="left">Weather-app : https://weather-app-omega-six-49.vercel.app/</p>
-
-###
+- [Weather](https://weather-app-omega-six-49.vercel.app/)
