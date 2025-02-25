@@ -41,3 +41,4 @@
 <h2 align="left">My Projects :</h2>
 
 - [Weather](https://weather-app-omega-six-49.vercel.app/)
+- [Gemini_clone](https://gemini-clone-ten-lovat.vercel.app/)
