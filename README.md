@@ -38,7 +38,7 @@
 <!-- **DevOps & Containerization**
 - Docker -->
 
-<h2 align="left">My Projects :</h2>
+<h2 align="left">My Projects :</h2> 
 
 - [Gemini_clone](https://gemini-clone-ten-lovat.vercel.app/)
 - [Weather](https://weather-app-omega-six-49.vercel.app/)
