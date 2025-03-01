@@ -8,7 +8,7 @@
 - 📫 How to reach me dobariyaharsh93@gmail.com
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT025/)
 - ⚡ GeeksforGeeks : [GeeksforGeeks](https://www.geeksforgeeks.org/user/dobariyawave/)
-- 🤝 I’m looking to collaborate on **Open Source Projects**
+- 🤝 I’m looking to collaborate on **Open Source Projects** 
 
 <h2 align="left">Connect with me:</h2>
 
