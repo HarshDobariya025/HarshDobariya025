@@ -22,7 +22,7 @@
 - **Markup & Styling**: HTML, CSS, Bootstrap, Tailwind
 - **Frameworks & Libraries**: React, Redux, Next.js
 <!-- - **Design Tools**: Figma -->
-
+ 
 **Backend Development**
 - **Languages**: Node.js, Java, Python
 - **Frameworks**: Express
