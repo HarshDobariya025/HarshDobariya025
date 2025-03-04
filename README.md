@@ -5,7 +5,7 @@
 
 - 👨‍💻 Portfolio : [portfolio.harshdobariya.me](portfolio.harshdobariya.me)
 - 📄 Resume : [HarshDobariya_Resume](https://drive.google.com/drive/folders/1b4sERy0xFiyIiSywJdtWz6DxOy_sRZf1?usp=sharing)
-- 📫 How to reach me dobariyaharsh93@gmail.com 
+- 📫 How to reach me dobariyaharsh93@gmail.com  
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT025/)
 - ⚡ GeeksforGeeks : [GeeksforGeeks](https://www.geeksforgeeks.org/user/dobariyawave/)
 - 🤝 I’m looking to collaborate on **Open Source Projects** 
