@@ -14,7 +14,6 @@
 
 - Linkedin : [harsh-dobariya-0b72062ba](https://www.linkedin.com/in/harsh-dobariya-0b72062ba/)
 - Mail : dobariyaharsh93@gmail.com
-- Phone : +91 6351597276
 
 <h2 align="left">Languages and Tools:</h2>
 
