@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p> -->
   
 - 👨‍💻 Portfolio : [portfolio.harshdobariya.me](portfolio.harshdobariya.me)
-- 📄 Resume : [HarshDobariya_Resume](https://drive.google.com/drive/folders/1b4sERy0xFiyIiSywJdtWz6DxOy_sRZf1?usp=sharing)
+- 📄 Resume : [HarshDobariya_Resume](https://docs.google.com/document/d/1MY7FbnoXA8VFk5dUfAj4SB6wtl5Oc2cR/edit#heading=h.30j0zll)
 - 📫 How to reach me dobariyaharsh93@gmail.com  
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT025/)
 - ⚡ GeeksforGeeks : [GeeksforGeeks](https://www.geeksforgeeks.org/user/dobariyawave/)
