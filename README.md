@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Harsh Dobariya</h1> 
 <h3 align="center">A Passionate Software Engineer From India.</h3> 
  
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuvaliya&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshDobariya025&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p>
   
 - 👨‍💻 Portfolio : [portfolio.harshdobariya.me](portfolio.harshdobariya.me)
 - 📄 Resume : [HarshDobariya_Resume](https://www.canva.com/design/DAGiWA4jjU8/O5YG4jOYg86t9I-wpzCpvw/view?utm_content=DAGiWA4jjU8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0da95bb6b4)
