@@ -3,8 +3,8 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshDobariya025&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p>
   
-- 👨‍💻 Portfolio : [portfolio.harshdobariya.me](portfolio.harshdobariya.me)
-- 📄 Resume : [HarshDobariya_Resume](https://www.canva.com/design/DAGiWA4jjU8/O5YG4jOYg86t9I-wpzCpvw/view?utm_content=DAGiWA4jjU8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0da95bb6b4)
+- 👨‍💻 Portfolio : [portfolio.harshdobariya.me](https://drive.google.com/file/d/1FtlGADD0K0xMOyAexOS4q9u_rKWoOMQ6/view?usp=sharing)
+- 📄 Resume : [HarshDobariya_Resume](https://drive.google.com/file/d/1FtlGADD0K0xMOyAexOS4q9u_rKWoOMQ6/view?usp=sharing)
 - 📫 How to reach me dobariyaharsh93@gmail.com  
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT025/)
 - ⚡ GeeksforGeeks : [GeeksforGeeks](https://www.geeksforgeeks.org/user/dobariyawave/)
