@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Harsh Dobariya</h1> 
 <h3 align="center">A Passionate Software Engineer From India.</h3>  
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshDobariya025&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuvaliya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshDobariya025&label=Profile%20views&color=0e75b6&style=flat" alt="harshdobariya" /> </p>
   
 - 👨‍💻 Portfolio : [portfolio.harshdobariya.me](https://harsh-dobariya-portfolio.vercel.app/)
-- 📄 Resume : [HarshDobariya_Resume](https://drive.google.com/file/d/1aml2zYt9m7WtXngrb48JsaKrThNSoQ8p/view?usp=sharing)
+- 📄 Resume : [HarshDobariya_Resume](https://drive.google.com/file/d/1PunJeCLQz9DI_A0XtHrT7_oyEtx2KpLX/view?usp=sharing)
 - 📫 How to reach me dobariyaharsh93@gmail.com  
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT025/)
 - ⚡ GeeksforGeeks : [GeeksforGeeks](https://www.geeksforgeeks.org/user/dobariyawave/)
