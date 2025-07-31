@@ -29,7 +29,7 @@
 
 **Database Management**
 - **NoSQL**: MongoDB
-- **SQL**: MySQL
+- **SQL**: MySQL, Postgres
 
 **Version Control**
 - Git, GitHub
