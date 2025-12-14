@@ -39,6 +39,7 @@
 
 <h2 align="left">My Projects :</h2> 
 
+- [Spott_AI-EventOrganiser](https://ai-event-organiser-seven.vercel.app/)
 - [AI_Career-Coach](https://ai-career-coach-v2-xi.vercel.app)
 - [AI_Student-Assistant](https://ai-student-assistant-six.vercel.app/)
 - [Cloth_FullStack_Website](https://cloth-frontend-eta.vercel.app/)
